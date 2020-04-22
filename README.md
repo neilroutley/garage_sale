@@ -4,7 +4,7 @@ A Garage Sale application built in Flutter.
 
 ## demo
 
-![image](./media/garage_sale_demo.gif)
+![image](./media/garage_sale_demo-vid.gif)
 
 ## technology
 
