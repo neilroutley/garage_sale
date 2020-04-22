@@ -2,17 +2,17 @@
 
 A Garage Sale application built in Flutter.
 
-## demo
+## Demo
 
 ![image](./media/garage_sale_demo-vid.gif)
 
-## technology
+## Technology
 
 - Flutter
 - Google Authentication
 - Google Maps
 - Firebase (DB/Storage/ML Kit)
 
-### author
+## Author
 
-Neil Routley
+- [Neil Routley](https://github.com/neilroutley)
